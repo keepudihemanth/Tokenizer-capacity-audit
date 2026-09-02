@@ -3,12 +3,11 @@
 ## Where AI helped
 
 AI was used as a coding and reasoning assistant during this audit.
-
+Used AI: ChatGPT Go, Claude(Haiku)
 It helped with:
 
-- Explaining the assignment requirements and organizing the work into Parts A, B, and C.
+- Validating the assignment requirements with my understanding and organizing the work into Parts A, B, and C.
 - Suggesting small experiments to test suspected issues in `fertility.py`.
-- Helping write Python scripts used to calculate and compare tokenizer metrics.
 - Helping derive the KV-cache capacity calculation from the provided model specification.
 - Suggesting calculations to independently verify what `reported_tok_s` represents.
 - Helping structure the recommendation memos and `NOTEBOOK.md`.
