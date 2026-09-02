@@ -1,0 +1,102 @@
+{
+  "gpt2": {
+    "eng": {
+      "language": "English",
+      "sentences": 1012,
+      "tokens": 27044,
+      "words": 21901,
+      "characters": 131966,
+      "utf8_bytes": 132096,
+      "tok_per_word": 1.2348294598420164,
+      "tok_per_character": 0.2049315732840277,
+      "tok_per_utf8_byte": 0.2047298934108527,
+      "tok_per_sentence": 26.723320158102766
+    },
+    "hin": {
+      "language": "Hindi",
+      "sentences": 1012,
+      "tokens": 200467,
+      "words": 25643,
+      "characters": 131058,
+      "utf8_bytes": 337073,
+      "tok_per_word": 7.817611043949616,
+      "tok_per_character": 1.5296052129591478,
+      "tok_per_utf8_byte": 0.5947287382851786,
+      "tok_per_sentence": 198.0899209486166
+    },
+    "tel": {
+      "language": "Telugu",
+      "sentences": 1012,
+      "tokens": 350763,
+      "words": 16938,
+      "characters": 132470,
+      "utf8_bytes": 353676,
+      "tok_per_word": 20.70864328728303,
+      "tok_per_character": 2.6478674416849097,
+      "tok_per_utf8_byte": 0.9917636480846876,
+      "tok_per_sentence": 346.60375494071144
+    },
+    "kan": {
+      "language": "Kannada",
+      "sentences": 1012,
+      "tokens": 367405,
+      "words": 16100,
+      "characters": 138040,
+      "utf8_bytes": 375380,
+      "tok_per_word": 22.820186335403726,
+      "tok_per_character": 2.661583598956824,
+      "tok_per_utf8_byte": 0.9787548617401034,
+      "tok_per_sentence": 363.048418972332
+    }
+  },
+  "xlm_roberta": {
+    "eng": {
+      "language": "English",
+      "sentences": 1012,
+      "tokens": 30661,
+      "words": 21901,
+      "characters": 131966,
+      "utf8_bytes": 132096,
+      "tok_per_word": 1.3999817359937903,
+      "tok_per_character": 0.23234014821999607,
+      "tok_per_utf8_byte": 0.23211149467054262,
+      "tok_per_sentence": 30.297430830039527
+    },
+    "hin": {
+      "language": "Hindi",
+      "sentences": 1012,
+      "tokens": 38222,
+      "words": 25643,
+      "characters": 131058,
+      "utf8_bytes": 337073,
+      "tok_per_word": 1.4905432281714308,
+      "tok_per_character": 0.2916418684857086,
+      "tok_per_utf8_byte": 0.11339383456995962,
+      "tok_per_sentence": 37.76877470355731
+    },
+    "tel": {
+      "language": "Telugu",
+      "sentences": 1012,
+      "tokens": 40377,
+      "words": 16938,
+      "characters": 132470,
+      "utf8_bytes": 353676,
+      "tok_per_word": 2.383811547998583,
+      "tok_per_character": 0.3048010870385748,
+      "tok_per_utf8_byte": 0.11416381094561123,
+      "tok_per_sentence": 39.898221343873516
+    },
+    "kan": {
+      "language": "Kannada",
+      "sentences": 1012,
+      "tokens": 41482,
+      "words": 16100,
+      "characters": 138040,
+      "utf8_bytes": 375380,
+      "tok_per_word": 2.5765217391304347,
+      "tok_per_character": 0.30050709939148074,
+      "tok_per_utf8_byte": 0.11050668655762161,
+      "tok_per_sentence": 40.9901185770751
+    }
+  }
+}
